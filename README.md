@@ -3,11 +3,9 @@ Final Machine Project in CCPROG1
 
 (Logic Formulation and Introductory Programming)
 </h1>
-<img src="Other Deriverables/1-MainMenu.png">
-<img src="Other Deriverables/2-GameProper.png">
-<img src="Other Deriverables/3-TravelMenu.png">
-<img src="Other Deriverables/4-GameSummary.png">
-<img src="Other Deriverables/5-ExitGame.png">
+<img src="Other Deliverables/1-MainMenu.png">
+<img src="Other Deliverables/4-GameSummary.png">
+<img src="Other Deliverables/5-ExitGame.png">
 
 📝**About**:
    - A strategy game in which the player assumes the role of a travelling salesman. 
