@@ -8,8 +8,7 @@ Final Machine Project in CCPROG1
 <img src="Other Deliverables/5-ExitGame.png">
 
 📝**About**:
-   - A strategy game in which the player assumes the role of a travelling salesman. 
-     The travelling salesman regularly goes on a sales trip consisting of 15 days. 
+   - The travelling salesman regularly goes on a sales trip consisting of 15 days. 
    - The objective of the game is for a player to make the most money on one sales trip/cycle by 
      selling essential oils and/or diffuser oils. 
    - Programming Language used: C.
